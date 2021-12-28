@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.951fece4.css","mappings":"AAAA,gBACE,WAAY,CACZ,QACF,CAEA,KACE,yHAAqF,CACrF,qBACF","sources":["index.css"],"sourcesContent":["#root,body,html{\n  height: 100%;\n  margin: 0;\n}\n\nbody{\n  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./assets/money.png);\n  background-size: cover;\n}"],"names":[],"sourceRoot":""}
