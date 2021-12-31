@@ -2,7 +2,7 @@
 
 ### A voice activated  Expense tracker web app where users can track thier income and expenses.
 
-A Full-Stack Web App that utilizes a voice-controlled personal assistant to keep track of your spending 
+A Full-Stack Web App that utilizes a voice-controlled personal assistant to keep track of your spending <br>
 A live version of the app can be viewed [here](https://radiant-fjord-58533.herokuapp.com/)
 
 -FullStack App created with :
