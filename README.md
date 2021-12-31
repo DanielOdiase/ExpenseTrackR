@@ -9,14 +9,10 @@ A live version of the app can be viewed [here](https://radiant-fjord-58533.herok
 
 ### Front-End Tools
 
----
-
 React Js ,HTML,CSS, JavaScript
-
+---
 
 ### Back-End Tools
-
----
 
 Node Js, MongoDB, Express JS 
 
