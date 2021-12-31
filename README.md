@@ -15,11 +15,10 @@ React Js ,HTML,CSS, JavaScript
 ### Back-End Tools
 
 Node Js, MongoDB, Express JS 
-
 ---
 
 ### The Problem 
- Knowing how important it is to keep an accurate record of expenses but also how tedious it is typing/writing  down every single expense ,i decided to embark on creating a voice assisted Expense-Tracker. 
+ Knowing how important it is to keep an accurate record of expenses but also how tedious it is typing/writing  down every single expense, I decided to embark on creating a voice assisted Expense-Tracker. 
  
  
  ### The Solution
